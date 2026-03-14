@@ -13,9 +13,9 @@ Every finding is verifiable. Every tool is public.
 | Program | Focus | Status |
 |---------|-------|--------|
 | **Evaluation & Adversarial Testing** | Systematic stress-testing of AI system safety claims | Active |
-| **Multi-Agent Safety & Governance** | How safety failures propagate through networks of cooperating agents | Active — [Schmidt Sciences RFP 2026](https://hharesearch.org) |
+| **Multi-Agent Safety & Governance** | How safety failures propagate through networks of cooperating agents | Active |
 | **Embodied AI Systems** | AI operating in physical environments from molecular to industrial scale | Active |
-| **RL for Medical Decision-Making** | Reinforcement learning environments for clinical applications | 8 published environments |
+| **RL for Medical Decision-Making** | Reinforcement learning environments for clinical applications | Published Environments |
 
 ### Published Environments
 
