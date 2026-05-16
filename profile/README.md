@@ -46,4 +46,4 @@ Every finding is verifiable. Every tool is public.
 
 ---
 
-*H.H.A. Applied Research Institute is a California nonprofit corporation (Entity No. B20260108518). 501(c)(3) status pending.*
+*H.H.A. Applied Research Institute is a California Public Benefit Nonprofit Corporation (Entity No. B20260108518), granted 501(c)(3) tax-exempt status by the IRS (EIN 41-4991887).*
