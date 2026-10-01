@@ -34,8 +34,8 @@ Every finding is verifiable. Every tool is public.
 
 ### Team
 
-- **Haedar Hadi** — Lead PI · MS Computer Science (Boston University, Information Systems)
-- **Hass Dhia** — Co-PI · MS Biomedical Sciences · AI Infrastructure Architect
+- **Haedar Hadi**, Co-Investigator · MS Computer Science (Boston University, Information Systems)
+- **Hass Dhia**, Principal Investigator · MS Biomedical Sciences · AI Infrastructure Architect
 - **Ahmed Dhia** — Key Team Member · Director of Manufacturing
 
 ### Links
